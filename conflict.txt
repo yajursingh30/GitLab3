@@ -1,1 +1,1 @@
-Content modified in the main branch.
+The merge conflict has been successfully resolved by combining both changes.
